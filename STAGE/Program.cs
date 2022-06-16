@@ -20,7 +20,7 @@ public class Program
             var bestandNaam = Path.GetFileName(fileName);
 
             string file = fileName.ToString();
-            //fileDest means file destination
+            //fileDest means file destination.
             string fileDest = @"C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\MAP2" + bestandNaam;
 
             string copyFolderFrom = filePath + file;
