@@ -1,0 +1,15 @@
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\bin\Debug\net6.0\STAGE.exe
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\bin\Debug\net6.0\STAGE.deps.json
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\bin\Debug\net6.0\STAGE.runtimeconfig.json
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\bin\Debug\net6.0\STAGE.dll
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\bin\Debug\net6.0\STAGE.pdb
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.csproj.AssemblyReference.cache
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.AssemblyInfoInputs.cache
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.AssemblyInfo.cs
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.csproj.CoreCompileInputs.cache
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.dll
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\refint\STAGE.dll
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.pdb
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.genruntimeconfig.cache
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\ref\STAGE.dll
