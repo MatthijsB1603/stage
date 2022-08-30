@@ -13,3 +13,5 @@ C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\re
 C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.pdb
 C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.genruntimeconfig.cache
 C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\ref\STAGE.dll
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mlbud\OneDrive\Documenten\STAGEOPDRACHT\STAGE\STAGE\obj\Debug\net6.0\STAGE.csproj.ResolveComReference.cache
